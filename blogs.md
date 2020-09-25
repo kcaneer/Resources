@@ -4,3 +4,4 @@
 | Skyler Kuretza | [@skylerkk](https://github.com/skylerkk) | [skylerkk.github.io](https://skylerkk.github.io/) |
 | Reese Hudson | [@dreesehudson](https://github.com/dreesehudson) | [dreesehudson.github.io](https://dreesehudson.github.io) |
 | Duncan Scruggs | [@duncanscruggs](https://github.com/duncanbscruggs) | [duncanbscruggs.github.io](https://duncanbscruggs.github.io/) |
+| Kennedy Caneer | [@kcaneer] (https://github.com/kcaneer) | [kcaneer.github.io] (https://github.com/kcaneer/kcaneer.github.io) | 
