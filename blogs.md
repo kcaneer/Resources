@@ -11,7 +11,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Duncan Scruggs | [@duncanscruggs](https://github.com/duncanbscruggs) | [blog-73667.web.app](https://blog-73667.web.app/) |
 | Chandler Ward | [@Cward92](https://github.com/Cward92) | [bootcamp-blog-d928f.web.app](https://bootcamp-blog-d928f.web.app/) |
 | Rachel Jackson | [@racheljay](https://github.com/racheljay) | [bootcamp-blog-17d2d.web.app](https://bootcamp-blog-17d2d.web.app/) |
-| Kennedy Caneer | [@kcaneer](https://github.com/kcaneer) | [kcaneer.github.io](https://kcaneer.github.io/) |
+| Kennedy Caneer | [@kcaneer](https://github.com/kcaneer) | [https://blog-21d62.web.app/](https://kcaneer.github.io/) |
 | Anthony Davies | [@Jdavies00](https://github.com/Jdavies00) | [Jdavies00.github.io](https://jdavies00.github.io/) |
 | Becky Mead | [@rlmead](https://github.com/rlmead) | [also-and.web.app/](https://also-and.web.app/) |
 | Aaron Withers | [@alwith2](https://github.com/alwith2) | [alwith2.github.io](https://alwith2.github.io) |
